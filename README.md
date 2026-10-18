@@ -4,9 +4,11 @@
   <img src="https://img.shields.io/badge/Exploring-Quantum%20%7C%20AI-6f42c1?style=flat-square" alt="Exploring" />
 </p>
 
-<h1 align="center">Hi, I am <i>Yash Choubey!</i></h1>
-
-<p align="center"><b>I build robust backends in Java and full-stack web apps with MERN, and tinker with quantum and AI on the side</b></p>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=180&section=header&text=Hi%2C%20I%20am%20Yash%20Choubey&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=38" alt="Hi, I am Yash Choubey" />
+  <br/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00F5D4&center=true&vCenter=true&width=720&lines=Java+Developer;MERN+Stack+Builder;Quantum+%26+AI+Explorer;Always+building+what's+next" alt="Typing animation" />
+</div>
 
 ## About Me
 
@@ -57,6 +59,12 @@ Hi, I am **Yash Choubey**, a **Java Developer** who builds backend and enterpris
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Yash-Choubey09/Yash-Choubey09/output/github-contribution-grid-snake.svg" />
     <img alt="Snake animation" src="https://raw.githubusercontent.com/Yash-Choubey09/Yash-Choubey09/output/github-contribution-grid-snake-dark.svg" />
   </picture>
+</p>
+
+## Contribution Skyline
+
+<p align="center">
+  <img src="./assets/skyline.svg" alt="3D contribution graph" width="100%" />
 </p>
 
 ## Support:
